@@ -7,25 +7,24 @@ I'm a web developer with a background in publishing and culture. I strive to cre
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-HTML · CSS · JavaScript · Ruby on Rails · React · Next.js
+HTML · CSS · JavaScript · TypeScript · React · Next.js
 
 **Styling & Design**  
-Tailwind CSS · Adobe Photoshop · Illustrator · InDesign
+Tailwind CSS · Adobe Photoshop · Illustrator · InDesign · Figma
 
 **Tools**  
-Git · GitHub · Supabase · Heroku
+Git · GitHub · Supabase · Heroku · Cloudinary
 
 ---
 
-### 🚀 Featured Project
+### 📚️ Featured Project
 
 **[Marginalia](https://www.marginalia.world)**  
 A modern reading companion to track books, write reviews, and share marginal notes — like Letterboxd for literature.
 
 ---
 
-### 📫 Let’s Connect
+### ✉️ Let’s Connect
 
 [juantrujillo.world](https://juantrujillo.world)  
-juan.trujillo1@protonmail.com  
-[@juanandrestt](https://github.com/juanandrestt)
+juan.trujillo1@protonmail.com
