@@ -13,7 +13,7 @@ HTML · CSS · JavaScript · TypeScript · React · Next.js
 Tailwind CSS · Adobe Photoshop · Illustrator · InDesign · Figma
 
 **Tools**  
-Git · GitHub · Supabase · Heroku · Cloudinary
+Git · GitHub · Vercel · Supabase · Heroku · Cloudinary
 
 ---
 
