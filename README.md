@@ -7,7 +7,7 @@ I'm a web developer with a background in publishing and culture. I strive to cre
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Rails
 
 **Styling & Design**  
 Tailwind CSS · Adobe Photoshop · Illustrator · InDesign · Figma
